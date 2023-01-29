@@ -1,0 +1,90 @@
+section{
+  height: 850px;
+  margin-bottom: 0px;
+}
+.infocontainer{
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: -100px;
+}
+.heading{
+  font-size: 30px;
+  display: flex;
+  color:  grey;
+  font-weight:400;
+  width: 900px;
+  height: 45px;
+  margin-left: 250px;
+  margin-bottom: 20px;
+  
+  
+}
+.condiv{
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  margin-left: 150px;
+  border-radius: 30px;
+}
+.condiv img{
+  width: 1000px;
+  height: 500px;
+}
+
+.footcontainer{
+  margin-bottom: -100px;
+  width: 100%;
+  height: 500px;
+  background-color: #0A4456;
+  display: flex;
+  padding-top: 170px;
+  
+}
+.logo{
+  margin-left: 250px;
+}
+.logo img{
+  width: 170px;
+}
+.logo p{
+  color: white;
+  line-height: 45px;
+  
+}
+.row{
+  margin-left: 200px;
+}
+.row ul{
+  list-style: none;
+}
+.row h3{
+  font-weight: 700;
+  color: white;
+  margin-bottom: 20px;
+}
+.row li{
+  margin-bottom: 7px;
+}
+.row a{
+  text-decoration: none;
+  color: white;
+}
+.social{
+  margin-left: 100px;
+}
+.social h3{
+  color: white;
+  margin-bottom: 15px;
+}
+.social img{
+  width: 60px;
+  height: 60px;
+  margin-left: 7px;
+}
+.social img:hover{
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+}

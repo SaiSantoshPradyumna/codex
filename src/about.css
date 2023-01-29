@@ -1,0 +1,251 @@
+section{
+  margin-top: 0px;
+}
+.aboutsec1{
+  background-image: url(assests/gradient1\ 1.png);
+  width:100%;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 120px;
+}
+.aboutsec1 h1{
+  color: white;
+  font-size: 30px;
+}
+.aboutsec2{
+  display: flex;
+  flex-direction: row;
+}
+.subsec21{
+  margin-left: 95px;
+}
+.subsec22 h1{
+  margin-left: 600px;
+  padding-top: 65px;
+  font-size: 35px;
+  color: #0D4050;
+}
+.aboutsec3{
+  display: flex;
+  flex-direction: row;
+}
+.subsec31{
+  display: flex;
+  flex-direction: column;
+  margin-left: 150px;
+  height: 25px;
+}
+.subsec31 h3{
+  color:#0D4050;
+  font-size: 30px;
+}
+.subsec31 p{
+  color: grey;
+  font-size: 27px;
+  margin-left: 30px;
+}
+.subsec32{
+  margin-left: 250px;
+  display: flex;
+  flex-direction: column;
+  line-height: 30px;
+  align-content: center;
+  align-items: center;
+  height: 100px;
+  padding: 10px;
+}
+.subsec32 h4{
+  margin-top: 5px;
+  font-size: 25px;
+  color: #0D4050;
+}
+.subsec32 p{
+  color: grey;
+}
+.subsec33{
+  display: flex;
+  flex-direction: column;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  margin-right: 200px;
+  margin-left: 200px;
+  padding: 5px;
+}
+.subsec33 h4{
+  margin-top: 5px;
+  font-size: 25px;
+  color: #0D4050;
+}
+.subsec33 p{
+  color: grey;
+}
+.subsec34{
+  display: flex;
+  flex-direction: column;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  margin-top: -5px;
+}
+.subsec34 img{
+  width: 100%;
+}
+.subsec34 h4{
+  margin-top: -15px;
+  font-size: 25px;
+  color: #0D4050;
+}
+.subsec34 p{
+  color: grey;
+}
+.subsec35 img{
+  display: flex;
+  height: 600px;
+  margin-left: 390px;
+}
+.aboutsec4{
+  display: flex;
+  flex-direction: row;
+}
+.subsec41{
+  margin-top: 250px;
+}
+.subsec42{
+  display: flex;
+  flex-direction: row;
+}
+.aboutus{
+  width: 500px;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.aboutus h1{
+  color: #0D4050;
+  font-size: 35px;
+}
+.aboutus p{
+  color: grey;
+  font-size: 17px;
+  padding: 5px;
+}
+.aboutus button{
+  width: 150px;
+  height: 40px;
+  color: white;
+  font-size: 17px;
+  border-radius: 8px;
+  border: none;
+  background-color: #267D98;
+}
+.aboutus button:hover{
+  cursor: pointer;
+  width: 170px;
+  height: 50px;
+  font-size: 20px;
+}
+.aboutus button:active{
+  color: #267D98;
+  background-color: white;
+}
+.teamimg{
+  margin-top: 140px;
+  margin-left: 50px;
+  
+
+}
+.subsec43{
+  display: flex;
+  margin-left: 248px;
+  margin-top: -500px;
+  align-items: center;
+}
+.aboutsec5{
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ margin-top: -150px;
+}
+.subsec51 h1{
+ color: #0D4050;
+ font-size: 50px;
+ margin-bottom: 20px;
+
+}
+.subsec52{
+  margin: 20px auto;
+  display: grid;
+  grid-template-columns: 700px 700px;
+  grid-row: auto auto;
+  grid-row-gap:50px ;
+  justify-content: center;
+}
+.ebox{
+  width: 650px;
+  height: 330px;
+  border-color: white;
+  border-radius: 20px;
+  box-shadow: 0 0 10px 1px black;
+}
+.ebox:hover{
+  cursor: pointer;
+  border-color: #207590;
+  border-style: solid;
+  border-width: 4px;
+  height: 340px;
+  width: 670px;
+ }
+ .ebox img{
+   display: flex;
+   width: 100%;
+   height: 70%;
+   justify-content: center;
+   align-content: center;
+ }
+ .ebox h3{
+   padding-left: 10px;
+   margin-top: 15px;
+   margin-bottom: 10px;
+   font-size: 20px;
+ }
+ .ebox p{
+   padding-left: 10px;
+   font-size: 17px;
+   color: grey;
+ }
+ .aboutsec6{
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  align-items: center;
+  
+ }
+ .subsec61 button{
+  color: white;
+  background-color: #207590;
+  width: 150px;
+  height: 55px;
+  border: none;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 600;
+  margin-left: 830px;
+ }
+ .subsec61 button:hover{
+  cursor: pointer;
+  width: 170px;
+  height: 75px;
+  font-size: 25px;
+ }
+ .subsec61 button:active{
+  color: #207590;
+  background-color: white;
+ }
+ .subsec62{
+  margin-left: 700px;
+  margin-top: -200px;
+ }

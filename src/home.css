@@ -1,0 +1,75 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.mainContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.sec1{
+  padding: 0;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  
+  background-size: cover;
+  background-image: url(assests/sec1bg.png);
+}
+.container-1 {
+  padding-top: 150px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  color: black;
+  margin-left: 100px;
+}
+.info{
+  padding-top: 150px;
+  width: 40%;
+}
+.info h1{
+  text-align: left;
+  margin-bottom: 15px;
+  font-size: 50px;
+}
+.info span{
+  font-size: 70px;
+  color: rgba(0, 0, 255, 0.842);
+}
+.info p{
+  line-height: 1.75em;
+  font-size: 20px;
+  color:grey;
+}
+.btnContainer button{
+  margin-top: 13px;
+  color: white;
+  background-color: #207590;
+  width: 190px;
+  height: 55px;
+  font-size: 20px;
+  border-radius: 8px;
+  border-width: 2px;
+  border-color: #207590;
+
+}
+.img1Container{
+  display: flex;
+  flex-direction: row;
+  margin-left: 8px;
+  justify-content: center;
+  align-content: center;
+  padding-top: 2px;
+}
+.img1Container img{
+  width: 700px;
+}
+button:hover{
+  cursor: pointer;
+  width: 200px;
+  height: 60px;
+  border-color: black;
+  font-size: 25px;
+}

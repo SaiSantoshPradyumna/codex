@@ -1,0 +1,21 @@
+section{
+  margin-top: 350px;
+}
+.maincontainer{
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}
+.head{
+  margin-bottom: 30px;
+}
+.head h1{
+ font-size: 50px;
+ color: #0A4456;
+}
+.head span{
+  font-size: 50px;
+  color: #267D98;
+}

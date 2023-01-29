@@ -1,0 +1,32 @@
+[
+  {
+    "id":1,
+    "question": "What is CODEX?",
+    "answer": ""
+  },
+  {
+    "id":2,
+    "question": "Why CODEX?",
+    "answer": ""
+  },
+  {
+    "id":3,
+    "question": "Do all events are technical?",
+    "answer": "Of course, not all events should be technical, should they? We need to give those brain cells a break and simply have some fun! Counter-Strike, Treasure Hunt, Number Games, and Tech Quiz ensure that the joy does not leave computer science and provides you the opportunity to demonstrate your extracurricular ability. Those who enjoy sports may also have their day in the sun during these events!"
+  },
+  {
+    "id":4,
+    "question": "Who is the founder CODEX?",
+    "answer": ""
+  },
+  {
+    "id":5,
+    "question": "How can i join CODEX?",
+    "answer": ""
+  },
+  {
+    "id":6,
+    "question": "For how much period i can be part of CODEX?",
+    "answer": ""
+  }
+]

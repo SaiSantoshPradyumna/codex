@@ -1,0 +1,93 @@
+
+.calSec{
+  height: 700px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 100px;
+}
+.caldesign img{
+  margin-top: 180px;
+}
+.calMain{
+  display: flex;
+  flex-direction: column;
+}
+.calHeader{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+}
+.calHeader h1{
+  margin-right: 20px;
+  font-size: 40px;
+  margin-bottom: 60px;
+}
+.calHeader img{
+  width: 70px;
+  margin-left: -5px;
+}
+.eventsSec{
+  display: flex;
+  flex-direction: row;
+  margin-left: 200px;
+}
+.events{
+  display: flex;
+  width: 950px;
+  flex-direction: column;
+}
+.eventbar1,
+.eventbar2,
+.eventbar3{
+  background-color: #2596be;
+  width: 750px;
+  height: 75px;
+  border-radius: 28px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 25px;
+  box-shadow: 0 0 12px 2px grey;
+}
+.subbar{
+  width:6px;
+  margin-left: 17px;
+  border-radius: 18px;
+  height: 55px;
+  margin-top: 6px;
+}
+.callogo{
+  width: 70px;
+  height: 60px;
+  padding-top: 5px;
+}
+.des{
+  display: flex;
+  flex-direction: column;
+  margin-left: 150px;
+  padding-top: 10px ;
+}
+.eventbar1 h4,
+.eventbar2 h4,
+.eventbar3 h4{
+  color: white;
+  font-size: 23px;
+  font-weight: bold ;
+}
+.eventbar1 p,
+.eventbar2 p,
+.eventbar3 p{
+  color: white;
+  font-size: 17px;
+  font-weight: lighter ;
+}
+.eventbar2{
+  margin-left: 100px;
+}
+.eventbar1:hover,
+.eventbar2:hover,
+.eventbar3:hover{
+  width: 770px;
+  height: 80px;
+  cursor: pointer;
+}
