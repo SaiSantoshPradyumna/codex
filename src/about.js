@@ -61,7 +61,7 @@ export default function About(){
           <div className='aboutus'>
             <h1>About us</h1>
             <p>
-            CODEX is one of the most active clubs on campus and
+            CODEX is the most active clubs on banglore campus and
             beyond and always operates, keeping the needs of the
             student community in mind. What's more, it never rests,
              ensuring you always have another event to attend, another
