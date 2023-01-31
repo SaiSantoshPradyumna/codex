@@ -1,6 +1,6 @@
-import m1 from './assests/memo1.png';
-import m2 from './assests/memo2.png';
-import m3 from './assests/memo3.png';
+import m1 from './styles/assests/memo1.png';
+import m2 from './styles/assests/memo2.png';
+import m3 from './styles/assests/memo3.png';
 const Memos=[
   {
     id:1,

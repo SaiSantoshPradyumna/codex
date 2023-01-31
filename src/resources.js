@@ -1,10 +1,10 @@
-import './resources.css';
-import front from './assests/frontendimg.png';
-import back from './assests/backendimg.png';
-import competitive from './assests/runningimg.png';
-import cone from './assests/Cones.jpg';
-import wand from './assests/Wands.jpg';
-import rec from './assests/Rectangle 33.png';
+import './styles/resources.css';
+import front from './styles/assests/frontendimg.png';
+import back from './styles/assests/backendimg.png';
+import competitive from './styles/assests/runningimg.png';
+import cone from './styles/assests/Cones.jpg';
+import wand from './styles/assests/Wands.jpg';
+import rec from './styles/assests/Rectangle 33.png';
 export default function Resources(){
   return(
     <section>

@@ -1,20 +1,20 @@
 
 import NFootr from './nfooter';
 import Footr from './footer';
-import './about.css';
-import cone from './assests/Cones.jpg';
-import guy from './assests/countguy.png';
-import logo1 from './assests/discordlogo.png';
-import logo2 from './assests/insta.png';
-import logo3 from './assests/youtubelogo.png';
-import rtbg from './assests/sec3bg.png';
-import ltbg from './assests/sec2bg.png';
-import team from './assests/codexteam.png';
-import img1 from './assests/codifyimg.png';
-import img2 from './assests/snapimg.png';
-import img3 from './assests/thorimg.png';
-import img4 from './assests/introc.png';
-import wand from './assests/Wands.jpg';
+import './styles/about.css';
+import cone from './styles/assests/Cones.jpg';
+import guy from './styles/assests/countguy.png';
+import logo1 from './styles/assests/discordlogo.png';
+import logo2 from './styles/assests/insta.png';
+import logo3 from './styles/assests/youtubelogo.png';
+import rtbg from './styles/assests/sec3bg.png';
+import ltbg from './styles/assests/sec2bg.png';
+import team from './styles/assests/codexteam.png';
+import img1 from './styles/assests/codifyimg.png';
+import img2 from './styles/assests/snapimg.png';
+import img3 from './styles/assests/thorimg.png';
+import img4 from './styles/assests/introc.png';
+import wand from './styles/assests/Wands.jpg';
 export default function About(){
   return(
     <section>

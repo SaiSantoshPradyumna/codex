@@ -1,6 +1,6 @@
 
-import './members.css';
-import wand from './assests/Wands.jpg';
+import './styles/members.css';
+import wand from './styles/assests/Wands.jpg';
 export default function Members(){
   return(
     <section>

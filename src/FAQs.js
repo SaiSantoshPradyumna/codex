@@ -1,7 +1,7 @@
-import './FAQs.css';
-import q from './assests/quiresimg.png';
-import man from './assests/faqsguy.png';
-import bg from './assests/sec3bg.png';
+import './styles/FAQs.css';
+import q from './styles/assests/quiresimg.png';
+import man from './styles/assests/faqsguy.png';
+import bg from './styles/assests/sec3bg.png';
 import questions from './faq.json';
 import Banner from "./Banner";
 export default function Faqs(){
@@ -16,11 +16,11 @@ export default function Faqs(){
             <Banner>
               <Banner.Header className='bheader' >FAQ'S
               </Banner.Header>
-              <h3>These are some of the frequently asked question about CODEX</h3>
+              <h3>These are some of the frequently asked question about/styles CODEX</h3>
               {questions.map((question) => (
                 <Banner.Entity key={question.id}>
                   <Banner.Question>{question.question}</Banner.Question>
-                  <Banner.Text>{question.answers}</Banner.Text>
+                  <Banner.Text>{question.answer}</Banner.Text>
                 </Banner.Entity>
               ))}
               

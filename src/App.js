@@ -20,7 +20,7 @@ function App() {
       <EventDate/>
       <Resources/>
       <Faqs/>
-      <Pictures/>
+      <div>      <Pictures/></div>
       <Info/>
       <Footr/>
     </div>

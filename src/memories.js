@@ -1,7 +1,7 @@
 import React,{component} from 'react';
 
 
-import './memories.css';
+import './styles/memories.css';
 export default function Pictures(){
   return(
     <section>

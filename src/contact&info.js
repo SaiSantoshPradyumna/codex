@@ -1,12 +1,12 @@
 
-import './cinfo.css'
-import logo from './assests/codexlogo.png';
-import twit from './assests/twiiter.webp';
-import whtapp from './assests/whatsapp.webp';
-import face from './assests/Facebook.webp';
-import insta from './assests/instagram.webp';
-import utube from './assests/youtube.png';
-import msgbox from './assests/messagebox.png'
+import './styles/cinfo.css'
+import logo from './styles/assests/codexlogo.png';
+import twit from './styles/assests/twiiter.webp';
+import whtapp from './styles/assests/whatsapp.webp';
+import face from './styles/assests/Facebook.webp';
+import insta from './styles/assests/instagram.webp';
+import utube from './styles/assests/youtube.png';
+import msgbox from './styles/assests/messagebox.png'
 export default function Info(){
   return(
     <section>

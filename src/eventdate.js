@@ -1,11 +1,11 @@
 import Calendar from 'react-calendar';
 import React,{useState} from 'react';
-import './Calendar.css'
-import ho from './assests/horn.png';
-import './eventDate.css';
-import bg from './assests/sec2bg.png';
-import icon from './assests/calendarimg.png';
-import subbar from './assests/subeventbar.png';
+import './styles/Calendar.css'
+import ho from './styles/assests/horn.png';
+import './styles/eventDate.css';
+import bg from './styles/assests/sec2bg.png';
+import icon from './styles/assests/calendarimg.png';
+import subbar from './styles/assests/subeventbar.png';
 export default function EventDate(){
   const [value, onChange] = useState(new Date());
   return(

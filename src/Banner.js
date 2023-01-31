@@ -1,5 +1,5 @@
 import React, { useState} from 'react';
-import {Container, Header, Entity, Inner, Question, Text} from './styles';
+import {Container, Header, Entity, Inner, Question, Text} from './styless';
 
 const QuestionContext=React.createContext();
 export default function Banner({children,...restProps}){

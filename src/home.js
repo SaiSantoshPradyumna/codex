@@ -1,6 +1,6 @@
 import {Link} from 'react-router-dom';
-import './home.css'
-import saly from'./assests/Saly-10.png'
+import './styles/home.css'
+import saly from'./styles/assests/Saly-10.png'
 export default function Home(){
   return(
     <div className='homepage'>
